@@ -1,0 +1,22 @@
+{
+  "name": "canvasmariojs",
+  "version": "1.0.0",
+  "description": "my test app",
+  "main": "script.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VctR477/MarioCanvasJS.git"
+  },
+  "keywords": [
+    "marioJS"
+  ],
+  "author": "Victor Klimov vickli477@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VctR477/MarioCanvasJS/issues"
+  },
+  "homepage": "https://github.com/VctR477/MarioCanvasJS#readme"
+}
