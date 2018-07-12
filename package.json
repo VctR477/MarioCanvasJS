@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/VctR477/MarioCanvasJS/issues"
   },
-  "homepage": "https://github.com/VctR477/MarioCanvasJS#readme"
+  "homepage": "https://github.com/VctR477/MarioCanvasJS#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
